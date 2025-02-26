@@ -47,9 +47,9 @@ This project demonstrates the implementation of a simple shopping cart system in
 ## **Deliverables**
 
 1. **Procedural Code**:
-    - [Link to procedural code](#procedural.js)
+    - [Link to procedural code](https://github.com/idrissbado/refactoring/blob/main/procedural.js)
 2. **Refactored Code**:
-    - [Link to refactored code](#designrefactor.js)
+    - [Link to refactored code](https://github.com/idrissbado/refactoring/blob/main/designrefactor.js)
 3. **Reflection Report**:
     - Included above.
 
